@@ -8,7 +8,7 @@ This is a Decentralized Application that submits and retrieves votes into an Eth
 * [Truffle](https://github.com/trufflesuite/truffle)
 
 ## How to run it?
-First run install all npm modules.
+First install all npm modules.
 ```
 $ npm install
 ```
